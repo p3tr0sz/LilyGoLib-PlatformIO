@@ -2,3 +2,7 @@
 .vscode
 build
 watch_app_order.bin
+
+# Simulator card and flash (examples/factory web server)
+sim_sd/
+sim_flash/
